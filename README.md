@@ -1,4 +1,4 @@
-# 📡 Digital Signal Processing (DSP) & Numerical Simulations in Python
+# Digital Signal Processing (DSP) & Numerical Simulations in Python
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Notebooks-Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
