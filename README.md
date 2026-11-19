@@ -11,7 +11,7 @@ O projeto contempla implementações práticas, visualização de respostas em f
 
 ---
 
-## 🔬 Tópicos de Engenharia Abordados
+## Tópicos de Engenharia Abordados
 
 * **Análise no Domínio da Frequência e Plano-Z**: Estudo de polos, zeros, região de convergência (ROC) e transformada rápida de Fourier (FFT/DFT).
 * **Projeto de Filtros Digitais (FIR & IIR)**: Métodos de janelamento, transformações bilineares e síntese de filtros passa-baixas, passa-altas e passa-faixa.
@@ -20,7 +20,7 @@ O projeto contempla implementações práticas, visualização de respostas em f
 
 ---
 
-## 🚀 Módulos e Cadernos Interativos
+## Módulos e Cadernos Interativos
 
 Cada módulo inclui formulação teórica, simulações algorítmicas, gráficos de resposta e código executável via **Google Colab**:
 
@@ -35,7 +35,7 @@ Cada módulo inclui formulação teórica, simulações algorítmicas, gráficos
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 * **Linguagem**: Python 3.x
 * **Bibliotecas Científicas**:
@@ -46,7 +46,7 @@ Cada módulo inclui formulação teórica, simulações algorítmicas, gráficos
 
 ---
 
-## 💻 Como Executar Localmente
+## Como Executar Localmente
 
 Caso prefira rodar os cadernos na sua máquina local em vez do Google Colab:
 
@@ -68,7 +68,7 @@ jupyter lab
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Caio Dantas**  
 * Engenheiro de Software / Desenvolvedor  
